@@ -1,5 +1,5 @@
-﻿# Railgaadi_ITW
- **Name: Patil Shrivardhan Chandrakant<br />
+﻿# Railgaadi
+ **Name: Anmol Shukla<br />
  Guide: Dr. Amrita Chaturvedi<br />**
  ![This is an image](https://images.unsplash.com/photo-1611908700765-78763392651c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aW5kaWFuJTIwcmFpbHdheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60)<br />
  *-I have made a Railway Reservation System app. This aids new passengers to register on the website, book their tickets, cancel their booked tickets and even print their ticket. A passenger can book multiple tickets for various trains and pay for them (payment is not actual).<br />
